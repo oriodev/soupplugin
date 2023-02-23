@@ -1,0 +1,6 @@
+name: soupplugin
+version: '${project.version}'
+main: orion.me.soupplugin.Soupplugin
+api-version: 1.19
+authors: [ oriodev ]
+description: a soup based plugin
